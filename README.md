@@ -1,4 +1,7 @@
 # Atlas Builder for Odin games
+
+> This repository is a fork from ![karl-zylinski/atlas-builder](https://github.com/karl-zylinski/atlas-builder)
+
 This is a program that can generate a texture based on a bunch of other textures. This bigger texture is called an atlas. Using an atlas can make your game's rendering code faster since the number of draw calls can be reduced.
 
 **See the example folder for a sample program that generates and uses an atlas. The example program looks like this:**
